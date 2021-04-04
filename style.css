@@ -1,0 +1,55 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 25rem;
+    height: 97vh;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.nav-header{
+    color: white;
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 2rem;
+}
+
+.title{
+    padding-left: 1rem;
+}
+
+.profile{
+    display: flex;
+
+}
+
+.profile img{
+    width: 8rem;
+    height: 8rem;
+    border: 1px solid white;
+    border-radius: 50%;
+    
+}
+
+.profile span{
+    color: white;
+}
+
+.main-title{
+    color: white;
+}
+
+p{
+ padding-left: 0.30rem;
+}
+
+p.bio{
+    width: 40%;
+    height: 10%;
+    padding-left: 0.30rem;
+}
